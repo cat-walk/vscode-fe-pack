@@ -2,7 +2,7 @@
   "name": "extension-pack-for-front-end",
   "displayName": "Extension Pack for Front End",
   "description": "前端会用到的大部分vscode插件，用于帮助你快速搭建开发环境",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "engines": {
     "vscode": "^1.0.0"
   },
