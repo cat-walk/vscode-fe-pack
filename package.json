@@ -4,7 +4,7 @@
   "description": "前端会用到的大部分vscode插件，用于帮助你快速搭建开发环境",
   "version": "0.0.1",
   "engines": {
-    "vscode": "^1.83.0"
+    "vscode": "^1.0.0"
   },
   "publisher": "cat-walk",
   "homepage": "https://github.com/cat-walk/vscode-fe-pack",
