@@ -17,6 +17,8 @@
 
 # extension-pack-for-front-end
 
+vscode 插件商城地址：https://marketplace.visualstudio.com/items?itemName=cat-walk.extension-pack-for-front-end
+
 ## vue / html
 
 - volar
